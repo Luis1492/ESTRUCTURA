@@ -1,0 +1,9 @@
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 1 Binarios\Practica 1 Binarios\bin\Debug\Practica 1 Binarios.exe.config
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 1 Binarios\Practica 1 Binarios\bin\Debug\Practica 1 Binarios.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 1 Binarios\Practica 1 Binarios\bin\Debug\Practica 1 Binarios.pdb
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 1 Binarios\Practica 1 Binarios\obj\Debug\Practica 1 Binarios.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 1 Binarios\Practica 1 Binarios\obj\Debug\Practica_1_Binarios.Form1.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 1 Binarios\Practica 1 Binarios\obj\Debug\Practica_1_Binarios.Properties.Resources.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 1 Binarios\Practica 1 Binarios\obj\Debug\Practica 1 Binarios.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 1 Binarios\Practica 1 Binarios\obj\Debug\Practica 1 Binarios.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Practica 1 Binarios\Practica 1 Binarios\obj\Debug\Practica 1 Binarios.pdb
