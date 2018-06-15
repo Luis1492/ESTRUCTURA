@@ -1,0 +1,9 @@
+C:\Users\luis\Desktop\Estructuras de Datos\Expresions Aritmeticas\Expresions Aritmeticas\bin\Debug\Expresions Aritmeticas.exe.config
+C:\Users\luis\Desktop\Estructuras de Datos\Expresions Aritmeticas\Expresions Aritmeticas\bin\Debug\Expresions Aritmeticas.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Expresions Aritmeticas\Expresions Aritmeticas\bin\Debug\Expresions Aritmeticas.pdb
+C:\Users\luis\Desktop\Estructuras de Datos\Expresions Aritmeticas\Expresions Aritmeticas\obj\Debug\Expresions Aritmeticas.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\Estructuras de Datos\Expresions Aritmeticas\Expresions Aritmeticas\obj\Debug\Expresions_Aritmeticas.Form1.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Expresions Aritmeticas\Expresions Aritmeticas\obj\Debug\Expresions_Aritmeticas.Properties.Resources.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Expresions Aritmeticas\Expresions Aritmeticas\obj\Debug\Expresions Aritmeticas.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\Estructuras de Datos\Expresions Aritmeticas\Expresions Aritmeticas\obj\Debug\Expresions Aritmeticas.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Expresions Aritmeticas\Expresions Aritmeticas\obj\Debug\Expresions Aritmeticas.pdb

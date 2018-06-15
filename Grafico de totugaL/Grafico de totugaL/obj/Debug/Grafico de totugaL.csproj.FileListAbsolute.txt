@@ -1,0 +1,9 @@
+C:\Users\luis\Desktop\Estructuras de Datos\Grafico de totugaL\Grafico de totugaL\bin\Debug\Grafico de totugaL.exe.config
+C:\Users\luis\Desktop\Estructuras de Datos\Grafico de totugaL\Grafico de totugaL\bin\Debug\Grafico de totugaL.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Grafico de totugaL\Grafico de totugaL\bin\Debug\Grafico de totugaL.pdb
+C:\Users\luis\Desktop\Estructuras de Datos\Grafico de totugaL\Grafico de totugaL\obj\Debug\Grafico de totugaL.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\Estructuras de Datos\Grafico de totugaL\Grafico de totugaL\obj\Debug\Grafico_de_totugaL.Form1.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Grafico de totugaL\Grafico de totugaL\obj\Debug\Grafico_de_totugaL.Properties.Resources.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Grafico de totugaL\Grafico de totugaL\obj\Debug\Grafico de totugaL.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\Estructuras de Datos\Grafico de totugaL\Grafico de totugaL\obj\Debug\Grafico de totugaL.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Grafico de totugaL\Grafico de totugaL\obj\Debug\Grafico de totugaL.pdb

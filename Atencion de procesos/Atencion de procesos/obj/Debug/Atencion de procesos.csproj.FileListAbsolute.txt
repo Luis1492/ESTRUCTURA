@@ -1,0 +1,9 @@
+C:\Users\luis\Desktop\Estructuras de Datos\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion de procesos.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\Estructuras de Datos\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion_de_procesos.Form1.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion_de_procesos.Properties.Resources.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion de procesos.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\Estructuras de Datos\Atencion de procesos\Atencion de procesos\bin\Debug\Atencion de procesos.exe.config
+C:\Users\luis\Desktop\Estructuras de Datos\Atencion de procesos\Atencion de procesos\bin\Debug\Atencion de procesos.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Atencion de procesos\Atencion de procesos\bin\Debug\Atencion de procesos.pdb
+C:\Users\luis\Desktop\Estructuras de Datos\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion de procesos.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Atencion de procesos\Atencion de procesos\obj\Debug\Atencion de procesos.pdb

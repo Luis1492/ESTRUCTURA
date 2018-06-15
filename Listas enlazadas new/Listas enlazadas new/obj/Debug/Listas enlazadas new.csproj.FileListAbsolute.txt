@@ -1,0 +1,9 @@
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas new\Listas enlazadas new\bin\Debug\Listas enlazadas new.exe.config
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas new\Listas enlazadas new\bin\Debug\Listas enlazadas new.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas new\Listas enlazadas new\bin\Debug\Listas enlazadas new.pdb
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas new\Listas enlazadas new\obj\Debug\Listas enlazadas new.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas new\Listas enlazadas new\obj\Debug\Listas_enlazadas_new.Form1.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas new\Listas enlazadas new\obj\Debug\Listas_enlazadas_new.Properties.Resources.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas new\Listas enlazadas new\obj\Debug\Listas enlazadas new.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas new\Listas enlazadas new\obj\Debug\Listas enlazadas new.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas new\Listas enlazadas new\obj\Debug\Listas enlazadas new.pdb

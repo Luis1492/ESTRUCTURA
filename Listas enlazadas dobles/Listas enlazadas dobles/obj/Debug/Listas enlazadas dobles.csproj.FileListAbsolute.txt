@@ -1,0 +1,9 @@
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas dobles\Listas enlazadas dobles\obj\Debug\Listas enlazadas dobles.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas dobles\Listas enlazadas dobles\obj\Debug\Listas_enlazadas_dobles.Form1.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas dobles\Listas enlazadas dobles\obj\Debug\Listas_enlazadas_dobles.Properties.Resources.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas dobles\Listas enlazadas dobles\obj\Debug\Listas enlazadas dobles.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas dobles\Listas enlazadas dobles\bin\Debug\Listas enlazadas dobles.exe.config
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas dobles\Listas enlazadas dobles\bin\Debug\Listas enlazadas dobles.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas dobles\Listas enlazadas dobles\bin\Debug\Listas enlazadas dobles.pdb
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas dobles\Listas enlazadas dobles\obj\Debug\Listas enlazadas dobles.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Listas enlazadas dobles\Listas enlazadas dobles\obj\Debug\Listas enlazadas dobles.pdb
